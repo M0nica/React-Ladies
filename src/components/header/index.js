@@ -45,6 +45,16 @@ const Header = ({ siteTitle }) => (
         <li>
           <NavHref href="/discord">Discord</NavHref>{' '}
         </li>
+        <li>
+          <NavHref
+            href="https://airtable.com/shrphJUHyS1h6UK0Y"
+            target="_blank"
+            title="Submit a Talk"
+            rel="noopener noreferrer"
+          >
+            CFP
+          </NavHref>
+        </li>
       </ul>
     </NavRow>
   </Nav>
